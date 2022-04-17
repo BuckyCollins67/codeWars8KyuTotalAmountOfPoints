@@ -30,3 +30,10 @@ function reverseList(list) {
 // return that reversed array called 'list'
 
 // ------------------------------------------------------------
+
+
+// Test case
+
+reverseList([1,2,3])
+
+console.log(reverseList([2,4,6]),([6,4,2]))
